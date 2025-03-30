@@ -19,8 +19,7 @@ import pygame
 import os
 
 
-# Initialize Cohere API
-COHERE_API_KEY = "d28Y2HwnozUpGgMspNmhA83M3HZPJCAfqQoDqeuw"
+
 co = cohere.Client(COHERE_API_KEY)
 # FastAPI service URL
 FASTAPI_URL = "http://127.0.0.1:10000/predict"
