@@ -341,7 +341,7 @@ def classify_video(n_clicks, filename, contents):
     return None, None
 
 app.layout = html.Div([
-    html.H1("FAUJJI", style={
+    html.H1("JAWAAN", style={
         'textAlign': 'center',
         'color': '#D4AF37',
         'fontSize': '3em',
