@@ -49,9 +49,6 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 ## ⚙ Tech Stack 🚀  
 
-### 🖥 Hardware  
-🌱 *Raspberry Pi* | 🏰 *Gazebo* | 🌐 *FANET*  
-
 ### 🧠 Algorithms & AI Models  
 🛠 *TSP (Traveling Salesman Problem)* | ⭐ *A** | 🛋 *Batch Processing*  
 📉 *Linear Regression*  
