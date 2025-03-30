@@ -50,14 +50,13 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ## ⚙ Tech Stack 🚀  
 
 ### 🧠 Algorithms & AI Models  
-🛠 *TSP (Traveling Salesman Problem)* | ⭐ *A** | 🛋 *Batch Processing*  
-📉 *Linear Regression*  
+🛠 *TSP (Traveling Salesman Problem)* | ⭐ *A** | 🛋 *Batch Processing*  | 🌱 Weights & Biases | 🏰 Avalanche | 📉 *Linear Regression*  
 
 ### 📚 Software & Libraries  
 🐖 *Python* | 🔢 *NumPy* | 🤖 *TensorFlow* | 👀 *OpenCV* | 🎯 *YOLO* | 🎢 *Folium*  
 
 ### 💾 Backend & Database  
-🌳 *MongoDB* | 🚀 *Express.js* | 💚 *Node.js* | 🏢 *MVC Architecture* | ☁ *AWS*  
+🌳 *MongoDB* | 🚀 *Express.js* | 💚 *Node.js* | 🏢 *MVC Architecture* | ☁ *AWS*  |  🌐Firebase
 
 ### 🌐 Web Stack  
 ⚛ *React.js* | 🚀 *Express.js* | 💚 *Node.js* | 🌳 *MongoDB*  
